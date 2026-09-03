@@ -8,8 +8,8 @@ Goal: The goal of this portion of the assignment is to create a 5x5 array, using
 1. np.random.seed(2112) - Takes from the specified random seed and creates an array
 
 2. X = np.random.randint(10, 101, size=(5, 5)) = gets a random integer from the array and names it "X", aka the random number generator
-3. 
-4. X_normalized = ((X-np.mean(X))/np.std(X)) = Gets the Z-score using the formula (X-mean)/sd, creating a an array that follows the formula
+  
+3. X_normalized = ((X-np.mean(X))/np.std(X)) = Gets the Z-score using the formula (X-mean)/sd, creating a an array that follows the formula
 
 3a. X = The random number from the previous code
 
