@@ -1,6 +1,8 @@
 # ECE2112_PA2_LAO_JAREDRUSELL
 This repository contains the contents of my programming assignment 2 for ECE 2112, focused on the fundamentals used in Numpy
 
+ECE2112 - JARED RUSELL CHUA LAO, 2ECE-B
+
 A. REPRODUCIBLE NORMALIZATION PROBLEM
 
 Goal: The goal of this portion of the assignment is to create a 5x5 array, using the same array to get the mean and standard deviation, and display the required components. 
