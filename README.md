@@ -21,7 +21,7 @@ Goal: The goal of this portion of the assignment is to create a 5x5 array, using
 
 6. mean = np.mean(X_normalized) = gets the mean from the X_normalized array
 
-7. np.save("X_normalized.npy",X_normalized) = saves the array, X_normalized named as "X_normalized.npy" in Jupiter Home
+7. np.save("X_normalized.npy",X_normalized) = saves the array, X_normalized named as "X_normalized.npy" in Jupyter Home
 
 
 B. CUBES DIVISIBLE BY 4 PROBLEM
@@ -38,7 +38,7 @@ Goal: Create a 10x10 array using the first 100 positive integers, all raised to 
 
 3. div_by_4 = C[C%4==0] = Uses a boolean condition that acquires all the elements in the array C, that is divisible by 4 and yields 0, meaning that it is perfectly divisible without any decimals.
 
-4. np.save("div_by_4.npy", div_by_4) = Saves the array div_by_4 in Jupiter home as a .npy file
+4. np.save("div_by_4.npy", div_by_4) = Saves the array div_by_4 in Jupyter home as a .npy file
 
 
 C. ABOVE-MEAN SQUARES PROBLEM
@@ -53,6 +53,6 @@ Goal: Create a 6x6 array named S has the first 36 positive integers, and using t
 
 4. above_mean.size = using the function .size, it acquires the number of elements that are above the mean
 
-5. np.save("above_mean.npy", above_mean) = Saves the array "above_mean" as an .npy file in Jupiter Home. 
+5. np.save("above_mean.npy", above_mean) = Saves the array "above_mean" as an .npy file in Jupyter Home. 
 
 
