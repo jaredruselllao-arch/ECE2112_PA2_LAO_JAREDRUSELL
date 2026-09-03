@@ -2,6 +2,7 @@
 This repository contains the contents of my programming assignment 2 for ECE 2112, focused on the fundamentals used in Numpy
 
 ECE2112 - JARED RUSELL CHUA LAO, 2ECE-B
+September 3, 2026
 
 A. REPRODUCIBLE NORMALIZATION PROBLEM
 
@@ -40,7 +41,9 @@ Goal: Create a 10x10 array using the first 100 positive integers, all raised to 
 
 3. div_by_4 = C[C%4==0] = Uses a boolean condition that acquires all the elements in the array C, that is divisible by 4 and yields 0, meaning that it is perfectly divisible without any decimals.
 
-4. np.save("div_by_4.npy", div_by_4) = Saves the array div_by_4 in Jupyter home as a .npy file
+4. div_by_4.size = A function that counts all of the elements inside the array, div_by_4
+
+5. np.save("div_by_4.npy", div_by_4) = Saves the array div_by_4 in Jupyter home as a .npy file
 
 
 C. ABOVE-MEAN SQUARES PROBLEM
